@@ -1,0 +1,7 @@
+Flask
+requests
+python-dotenv
+flask-cors
+apscheduler
+newspaper3k
+beautifulsoup4
