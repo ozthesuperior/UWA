@@ -6,3 +6,4 @@ flask-cors
 apscheduler
 newspaper3k
 beautifulsoup4
+lxml-html-clean==1.0.0
